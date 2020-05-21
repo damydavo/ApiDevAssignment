@@ -34,7 +34,7 @@ router.post("/api/v1/books", async (req, res) => {
 });
 
 //get a post by an id and update
-router.get("/post/:Id", async (req, res) => {
+router.get("/api/v1/books/:Id", async (req, res) => {
   try {
     const savedPost = await post.findById(req.params.Id);
     res.json(savedPost);
