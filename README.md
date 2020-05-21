@@ -1,5 +1,5 @@
 # Api consumption/api-crud implementation
-An Assesment for Aureole Consulting Limited
+An Assessment for Aureole Consulting Limited
 
 # Technology Stack Used
  1. Express
@@ -17,8 +17,8 @@ An Assesment for Aureole Consulting Limited
 2. cd books to get the api consumption
 3. cd .. 
 4. cd v1 to get the api CRUD
-5. npm install
-6. npm app.js
+5. npm install....to install dependencies
+6. node app.js....to start the server
 
 # MVC
 Strictly Postman, No need of view
